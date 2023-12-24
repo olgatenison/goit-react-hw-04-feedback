@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+  padding-top: 50px;
+  max-width: 350px;
+  margin: 0 auto;
+  font-size: 45px;
+}
+.wrapp {
+  margin: 0 auto;
+  padding: 10px;
+}
